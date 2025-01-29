@@ -1,0 +1,7 @@
+Admin 
+Username: admin@gmail.com
+Password: Test@12345
+
+Normal login
+Username: t@gmail.com
+Password: 16177
